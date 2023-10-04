@@ -322,7 +322,7 @@ body {
 
 .container__two__education {
 	margin-top: 5px;
-	padding: 0.5rem;
+	padding: 1rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: first baseline;
@@ -351,7 +351,7 @@ body {
 
 .container__experience {
 
-	padding: 12px;
+	padding: 10px;
 	margin-top: 10px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	border-radius: 5px;
@@ -365,9 +365,9 @@ body {
 
 .container__two__exp {
 	font-size: 0.9rem;
-	text-transform: uppercase;
 	padding-bottom: 0.5rem;
-	line-height: 1.2rem;
+	text-transform: uppercase;
+        line-height: 1.2rem;
 	font-family: 'Palanquin', sans-serif;
 }
 
@@ -376,7 +376,7 @@ body {
 	text-indent: 45px;
 	padding-bottom: 0.5rem;
 	font-size: 0.7rem;
-	line-height: 1.15rem;
+	line-height: 1.2rem;
 	font-family: 'Montserrat', sans-serif;
 
 }
