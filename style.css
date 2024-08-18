@@ -206,8 +206,10 @@ body {
 	width: fit-content;
 	padding: 0.5rem;
 	border-radius: 0.5em;
-	background: #dfe6ea;
-	color: #082e48;
+	/*background: #dfe6ea;
+	color: #082e48;*/
+	background-color:#e74c3c;
+	color: #ffffff;
 	font-weight: bolder;
 	text-transform: uppercase;
 	margin-bottom: 10px;
