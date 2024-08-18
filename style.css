@@ -68,8 +68,9 @@ body {
 	letter-spacing: 1px;
 	padding: 0.5rem;
 	border-radius: 0.5em;
-	background: #082e48;
-	color: #ccc;
+	/*background: #082e48;*/
+	background-color:#e74c3c;
+	color: #ffffff;
 	font-weight: bolder;
 	text-transform: uppercase;
 	margin-bottom: 10px;
